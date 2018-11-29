@@ -36,4 +36,9 @@ void loop() {
    //https://www.hackster.io/amal-ns/hall-effect-sensor-with-arduino-390916
    //http://www.electronics-lab.com/project/using-hall-effect-sensor-arduino/
    //https://www.youtube.com/watch?v=QH1Lw9BwTJI
+
+
+
+   
+   //https://youtu.be/zZJkfC8LCNA
 }
